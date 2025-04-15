@@ -142,7 +142,4 @@ src/
 5. Open a Pull Request
 
 ## License
-[Add your license information here]
-
-## Contact
-[Add your contact information here] 
+MIT License
