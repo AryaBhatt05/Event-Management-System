@@ -134,24 +134,6 @@ src/
 └── test/
 ```
 
-## Screenshots
-[Add screenshots of key features here]
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)
-
-### Event Booking
-![Event Booking](screenshots/event-booking.png)
-
-### Reports
-![Reports](screenshots/reports.png)
-
 ## Contributing
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
